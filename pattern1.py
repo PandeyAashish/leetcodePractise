@@ -169,4 +169,7 @@ def pattern8(n):
         print()
 
 
-pattern8(16)
+# pattern8(16)
+
+def pattern9(n):
+    pass
